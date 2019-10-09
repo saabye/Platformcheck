@@ -82,7 +82,7 @@
 
         function test() {
 
-            echo "<p><b>Platformcheck</b><br /><i>Platform: ".$this->platform."<br />Device: ".$this->device."</i></p>";
+            echo "<h3><b>Platformcheck</h3><br /><b>Platform:</b> ".$this->platform."<br /><b>Device: ".$this->device."</b></p>";
 
         }
 
